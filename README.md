@@ -8,8 +8,8 @@
 
 ##
 ![Software Development](https://img.shields.io/badge/Software_Development-green)
-![Neurosciences](https://img.shields.io/badge/Neurosciences-blue)
 ![Data Science](https://img.shields.io/badge/Data_Science-orange)
+![Neurosciences](https://img.shields.io/badge/Neurosciences-blue)
 [![Status](https://img.shields.io/badge/status-updating-brightgreen.svg)](https://github.com/ruizRojasFel/ruizRojasFel)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ruizRojasFel)
 [![Contributors](https://img.shields.io/github/contributors/ruizRojasFel/ruizRojasFel?color=blue)](https://github.com/ruizRojasFel/ruizRojasFel/graphs/contributors)
