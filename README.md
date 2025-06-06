@@ -34,5 +34,4 @@
 [![Gmail](https://img.shields.io/badge/Email-%20felruiz.a%40gmail.com-red?logo=gmail&logoColor=white)](mailto:felruiz.a@gmail.com)
 
 ## 📈 Languages Used in My Repositories
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruizRojasFel&layout=compact&hide_title=true&cache_seconds=86400)](https://github.com/ruizRojasFel)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruizRojasFel&layout=compact&hide_title=true&cache)](https://github.com/ruizRojasFel)
