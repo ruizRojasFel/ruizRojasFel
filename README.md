@@ -33,7 +33,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40felandres-blue?logo=linkedin&logoColor=white)](http://linkedin.com/in/felandres)
 [![Gmail](https://img.shields.io/badge/Email-%20felruiz.a%40gmail.com-red?logo=gmail&logoColor=white)](mailto:felruiz.a@gmail.com)
 
-## 📈 Languages Used in My Repositories
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruizRojasFel&layout=compact&hide_title=true&cache)](https://github.com/ruizRojasFel)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruizRojasFel&repo=github-readme-stats)](https://github.com/ruizRojasFel/github-readme-stats)
+## 📈 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruizRojasFel&theme=white&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
