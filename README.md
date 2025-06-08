@@ -35,3 +35,5 @@
 
 ## 📈 Languages Used in My Repositories
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruizRojasFel&layout=compact&hide_title=true&cache)](https://github.com/ruizRojasFel)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruizRojasFel&repo=github-readme-stats)](https://github.com/ruizRojasFel/github-readme-stats)
