@@ -20,8 +20,7 @@
 [![Programming Skills](https://skillicons.dev/icons?i=python,java,spring,js,react,mysql,html,css)](https://skillicons.dev)
 
 ## 🛠️ Tools and Platforms
-[![Tools and Platforms](https://skillicons.dev/icons?i=aws,azure,apple,windows,git,github,postman,cloudflare,notion,discord,figma,vscode)](https://skillicons.de)
-
+[![Tools and Platforms](https://skillicons.dev/icons?i=aws,azure,apple,windows,git,github,postman,cloudflare,notion,discord,figma,vscode)](https://skillicons.de) 
 ![apache-netbeans](https://img.icons8.com/color/50/apache-netbeans.png)
 ![Trello](https://img.icons8.com/color/50/trello.png)
 ![Atlassian](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-atlassian-an-australian-enterprise-software-company-that-develops-products-for-software-developers-logo-color-tal-revivo.png)
