@@ -9,22 +9,22 @@
 ##
 ![Software Development](https://img.shields.io/badge/Software_Development-green)
 ![Data Science](https://img.shields.io/badge/Data_Science-orange)
-![Neurosciences](https://img.shields.io/badge/Neurosciences-blue)
-[![Status](https://img.shields.io/badge/status-updating-brightgreen.svg)](https://github.com/ruizRojasFel/ruizRojasFel)
+![Neurosciences](https://img.shields.io/badge/Neurosciences-yellow)
+[![Status](https://img.shields.io/badge/status-updating-blue.svg)](https://github.com/ruizRojasFel/ruizRojasFel)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ruizRojasFel)
 [![Contributors](https://img.shields.io/github/contributors/ruizRojasFel/ruizRojasFel?color=blue)](https://github.com/ruizRojasFel/ruizRojasFel/graphs/contributors)
 [![Stars](https://img.shields.io/github/stars/ruizRojasFel/ruizRojasFel.svg?logo=github)](https://github.com/ruizRojasFel/ruizRojasFel/stargazers)
 [![Forks](https://img.shields.io/github/forks/ruizRojasFel/ruizRojasFel.svg?color=blue&logo=github)](https://github.com/ruizRojasFel/ruizRojasFel/network/members)
 
 ## 🖥️ Languages and Frameworks
-[![Programming Skills](https://skillicons.dev/icons?i=python,java,js,html,css,react,mysql)](https://skillicons.dev)
+[![Programming Skills](https://skillicons.dev/icons?i=python,java,spring,js,react,mysql,html,css)](https://skillicons.dev)
 
 ## 🛠️ Tools and Platforms
-[![Tools and Platforms](https://skillicons.dev/icons?i=aws,azure,figma,discord,git,github,vscode)](https://skillicons.de)
+[![Tools and Platforms](https://skillicons.dev/icons?i=aws,azure,apple,windows,git,github,postman,cloudflare,notion,discord,figma,vscode)](https://skillicons.de)
 ![apache-netbeans](https://img.icons8.com/color/50/apache-netbeans.png)
-![wix](https://img.icons8.com/windows/50/wix.png)
 ![Trello](https://img.icons8.com/color/50/trello.png)
 ![Atlassian](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-atlassian-an-australian-enterprise-software-company-that-develops-products-for-software-developers-logo-color-tal-revivo.png)
+![wix](https://img.icons8.com/windows/50/wix.png)
 
 ## 🚀 Projects
 - **Nothofagus Solitario [in progress]:** This website is dedicated to my solo travel adventures, offering tips and inspiration for those who wish to explore the world on their own.
