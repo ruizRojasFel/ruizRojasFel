@@ -10,7 +10,7 @@
 ![Software Development](https://img.shields.io/badge/Software_Development-green)
 ![Data Science](https://img.shields.io/badge/Data_Science-orange)
 ![Neurosciences](https://img.shields.io/badge/Neurosciences-yellow)
-[![Status](https://img.shields.io/badge/status-updating-brightgreen.svg)](https://github.com/ruizRojasFel/ruizRojasFel)
+[![Status](https://img.shields.io/badge/status-updating-blue.svg)](https://github.com/ruizRojasFel/ruizRojasFel)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ruizRojasFel)
 [![Contributors](https://img.shields.io/github/contributors/ruizRojasFel/ruizRojasFel?color=blue)](https://github.com/ruizRojasFel/ruizRojasFel/graphs/contributors)
 [![Stars](https://img.shields.io/github/stars/ruizRojasFel/ruizRojasFel.svg?logo=github)](https://github.com/ruizRojasFel/ruizRojasFel/stargazers)
