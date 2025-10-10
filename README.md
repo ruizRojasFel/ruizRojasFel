@@ -4,7 +4,6 @@
 - Computer Engineering student.
 - I have experience in web development through personal projects.
 - My profile is multidisciplinary, with knowledge in pedagogy, social sciences, and learning neuroscience.
-- I am an enthusiast of trekking, which has allowed me to strengthen skills such as resilience, leadership, and collaboration.
 
 ##
 ![Software Development](https://img.shields.io/badge/Software_Development-green)
@@ -16,22 +15,38 @@
 [![Stars](https://img.shields.io/github/stars/ruizRojasFel/ruizRojasFel.svg?logo=github)](https://github.com/ruizRojasFel/ruizRojasFel/stargazers)
 [![Forks](https://img.shields.io/github/forks/ruizRojasFel/ruizRojasFel.svg?color=blue&logo=github)](https://github.com/ruizRojasFel/ruizRojasFel/network/members)
 
+---
+
 ## 🖥️ Languages and Frameworks
-[![Programming Skills](https://skillicons.dev/icons?i=python,java,js,html,css,react,mysql)](https://skillicons.dev)
+[![Languages and Frameworks](https://skillicons.dev/icons?i=python,java,kotlin,js,html,css,spring,react,bootstrap,tailwind,mysql)](https://skillicons.dev)
+
+![MQL](https://img.shields.io/badge/MQL4%2F5-00599C?style=for-the-badge&logo=metatrader&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
 
 ## 🛠️ Tools and Platforms
-[![Tools and Platforms](https://skillicons.dev/icons?i=aws,azure,figma,discord,git,github,vscode)](https://skillicons.de)
-![apache-netbeans](https://img.icons8.com/color/50/apache-netbeans.png)
-![wix](https://img.icons8.com/windows/50/wix.png)
-![Trello](https://img.icons8.com/color/50/trello.png)
-![Atlassian](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-atlassian-an-australian-enterprise-software-company-that-develops-products-for-software-developers-logo-color-tal-revivo.png)
+[![Tools and Platforms](https://skillicons.dev/icons?i=git,vscode,androidstudio,postman,mongodb,maven,figma)](https://skillicons.dev)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
+---
 
 ## 🚀 Projects
 - **Nothofagus Solitario [in progress]:** This website is dedicated to my solo travel adventures, offering tips and inspiration for those who wish to explore the world on their own.
- 
+- **Imperio de Caballo y Güey [in progress]:**
+
+---
+
 ## 📬 Connect with Me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40felandres-blue?logo=linkedin&logoColor=white)](http://linkedin.com/in/felandres)
 [![Gmail](https://img.shields.io/badge/Email-%20felruiz.a%40gmail.com-red?logo=gmail&logoColor=white)](mailto:felruiz.a@gmail.com)
 
+---
+
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruizRojasFel&hide_border=true&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=4D4D4D)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruizRojasFel&hide_border=true&layout=compact&langs_count=12&title_color=ffffff&text_color=ffffff&bg_color=4D4D4D)
