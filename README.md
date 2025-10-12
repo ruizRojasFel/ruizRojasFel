@@ -10,7 +10,6 @@
 ![Data Science](https://img.shields.io/badge/Data_Science-FF8C00?style=for-the-badge&logo=python&logoColor=white)
 ![Neurosciences](https://img.shields.io/badge/Neurosciences-FFD700?style=for-the-badge&logo=brains&logoColor=black)
 
-##
 [![Status](https://img.shields.io/badge/status-updating-blue.svg)](https://github.com/ruizRojasFel/ruizRojasFel)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ruizRojasFel)
 [![Contributors](https://img.shields.io/github/contributors/ruizRojasFel/ruizRojasFel?color=blue)](https://github.com/ruizRojasFel/ruizRojasFel/graphs/contributors)
@@ -65,6 +64,12 @@
 ## 🚀 Projects
 - 🌲 **Nothofagus Solitario** *(in progress)* — Static travel website that showcases destinations and experiences.
 - 🐎 **Imperio de Caballo y Güey** *(in progress)* — Dynamic website focused on building the brand’s online presence.
+
+---
+
+## 🎓 Certifications
+- 🧭 **Scrum Fundamentals Certified (SFC)** — *Scrum Study*  
+- 🐍 **Python Essentials 1** — *Cisco Networking Academy*
 
 ---
 
