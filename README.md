@@ -23,13 +23,7 @@
 ---
 
 ## 🛠️ Tools and Platforms
-[![Tools and Platforms](https://skillicons.dev/icons?i=git,vscode,androidstudio,xcode,postman,mongodb,maven,NetBeans,figma,notion,discord)](https://skillicons.dev)
-
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+[![Tools and Platforms](https://skillicons.dev/icons?i=git,vscode,androidstudio,xcode,postman,mongodb,maven,NetBeans,figma,notion,trello,jira,discord)](https://skillicons.dev)
 
 ---
 
