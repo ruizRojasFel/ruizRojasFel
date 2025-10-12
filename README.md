@@ -27,7 +27,6 @@
 <p align="left">
   <!-- Devicon -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"       alt="Git"            style="width:40px; height:40px; margin:4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"         style="width:40px; height:40px; margin:4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"        style="width:40px; height:40px; margin:4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" style="width:40px; height:40px; margin:4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"   alt="Xcode"          style="width:40px; height:40px; margin:4px;"/>
@@ -35,7 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"     style="width:40px; height:40px; margin:4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman"     style="width:40px; height:40px; margin:4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg"     alt="Maven"       style="width:40px; height:40px; margin:4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"      alt="Gradle"      style="width:40px; height:40px; margin:4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"     alt="Figma"       style="width:40px; height:40px; margin:4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"   alt="Docker"      style="width:40px; height:40px; margin:4px;"/>
 
