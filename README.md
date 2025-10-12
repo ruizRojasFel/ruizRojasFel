@@ -39,14 +39,12 @@
   <!-- ⚙️ Dev Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
        alt="Git" style="width:40px; height:40px; margin:6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+  <img src="https://cdn.simpleicons.org/github/181717" 
        alt="GitHub" style="width:40px; height:40px; margin:6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
        alt="Docker" style="width:40px; height:40px; margin:6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" 
        alt="Maven" style="width:40px; height:40px; margin:6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" 
-       alt="Gradle" style="width:40px; height:40px; margin:6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" 
        alt="Postman" style="width:40px; height:40px; margin:6px;"/>
   <!-- 🎨 Design & Docs -->
