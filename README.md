@@ -23,7 +23,8 @@
 ---
 
 ## 🛠️ Tools and Platforms
-[![Tools and Platforms](https://skillicons.dev/icons?i=git,vscode,androidstudio,postman,mongodb,maven,figma)](https://skillicons.dev)
+[![Tools and Platforms](https://skillicons.dev/icons?i=git,vscode,androidstudio,postman,mongodb,maven,figma,notion,discord)](https://skillicons.dev)
+
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
@@ -46,6 +47,4 @@
 
 ## 📊 GitHub Overview
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruizRojasFel&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruizRojasFel&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruizRojasFel&layout=donut&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
