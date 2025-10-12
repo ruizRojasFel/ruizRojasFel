@@ -18,17 +18,17 @@
 ---
 
 ## 🖥️ Languages and Frameworks
-[![Languages and Frameworks](https://skillicons.dev/icons?i=python,java,kotlin,js,typescript,html,css,spring,react,bootstrap,tailwind,mysql)](https://skillicons.dev)
+[![Languages and Frameworks](https://skillicons.dev/icons?i=python,java,kotlin,swift,js,typescript,html,css,spring,react,bootstrap,tailwind,mysql)](https://skillicons.dev)
 
 ---
 
 ## 🛠️ Tools and Platforms
-[![Tools and Platforms](https://skillicons.dev/icons?i=git,vscode,androidstudio,postman,mongodb,maven,figma,notion,discord)](https://skillicons.dev)
+[![Tools and Platforms](https://skillicons.dev/icons?i=git,vscode,androidstudio,xcode,postman,mongodb,maven,NetBeans,figma,notion,discord)](https://skillicons.dev)
 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 ---
