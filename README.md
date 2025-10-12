@@ -23,7 +23,7 @@
 ---
 
 ## 🛠️ Tools and Platforms
-[![Tools and Platforms](https://skillicons.dev/icons?i=git,vscode,androidstudio,xcode,postman,mongodb,maven,NetBeans,figma,notion,trello,jira,discord)](https://skillicons.dev)
+[![Tools and Platforms](https://skillicons.dev/icons?i=git,vscode,androidstudio,apple,postman,mongodb,maven,java,figma,notion,atlassian,discord&perline=6&theme=dark)](https://skillicons.dev)
 
 ---
 
