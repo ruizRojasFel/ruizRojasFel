@@ -9,6 +9,8 @@
 ![Software Development](https://img.shields.io/badge/Software_Development-2E8B57?style=for-the-badge&logo=codeium&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data_Science-FF8C00?style=for-the-badge&logo=python&logoColor=white)
 ![Neurosciences](https://img.shields.io/badge/Neurosciences-FFD700?style=for-the-badge&logo=brains&logoColor=black)
+
+##
 [![Status](https://img.shields.io/badge/status-updating-blue.svg)](https://github.com/ruizRojasFel/ruizRojasFel)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ruizRojasFel)
 [![Contributors](https://img.shields.io/github/contributors/ruizRojasFel/ruizRojasFel?color=blue)](https://github.com/ruizRojasFel/ruizRojasFel/graphs/contributors)
@@ -34,7 +36,6 @@
        alt="Xcode" style="width:40px; height:40px; margin:6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" 
        alt="NetBeans" style="width:40px; height:40px; margin:6px;"/>
-
   <!-- ⚙️ Dev Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
        alt="Git" style="width:40px; height:40px; margin:6px;"/>
@@ -48,13 +49,11 @@
        alt="Gradle" style="width:40px; height:40px; margin:6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" 
        alt="Postman" style="width:40px; height:40px; margin:6px;"/>
-
   <!-- 🎨 Design & Docs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" 
        alt="Figma" style="width:40px; height:40px; margin:6px;"/>
   <img src="https://cdn.simpleicons.org/notion/FFFFFF" 
        alt="Notion" style="width:40px; height:40px; margin:6px; background:#000; padding:5px; border-radius:6px; box-sizing:border-box;"/>
-
   <!-- 🤝 Teamwork -->
   <img src="https://cdn.simpleicons.org/atlassian/2684FF" 
        alt="Atlassian" style="width:40px; height:40px; margin:6px;"/>
