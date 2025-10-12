@@ -18,11 +18,7 @@
 ---
 
 ## 🖥️ Languages and Frameworks
-[![Languages and Frameworks](https://skillicons.dev/icons?i=python,java,kotlin,js,html,css,spring,react,bootstrap,tailwind,mysql)](https://skillicons.dev)
-
-![MQL](https://img.shields.io/badge/MQL4%2F5-00599C?style=for-the-badge&logo=metatrader&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+[![Languages and Frameworks](https://skillicons.dev/icons?i=python,java,kotlin,js,typescript,html,css,spring,react,bootstrap,tailwind,mysql)](https://skillicons.dev)
 
 ---
 
