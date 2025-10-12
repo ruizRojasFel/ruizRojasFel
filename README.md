@@ -1,14 +1,14 @@
 # 👋 Hi there, I’m Felipe Ruiz Rojas
 
-## 👨‍💻 About me
-- Computer Engineering student.
-- I have experience in web development through personal projects.
-- My profile is multidisciplinary, with knowledge in pedagogy, social sciences, and learning neuroscience.
+## 👨‍💻 About Me
+- 🎓 I'm a Computer Engineering student with a passion for building and learning.
+- 💻 I have experience in web development through personal and collaborative projects.
+- 🧩 My background is multidisciplinary, with knowledge in pedagogy, social sciences, and learning neuroscience.
 
 ##
-![Software Development](https://img.shields.io/badge/Software_Development-green)
-![Data Science](https://img.shields.io/badge/Data_Science-orange)
-![Neurosciences](https://img.shields.io/badge/Neurosciences-yellow)
+![Software Development](https://img.shields.io/badge/Software_Development-2E8B57?style=for-the-badge&logo=codeium&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-FF8C00?style=for-the-badge&logo=python&logoColor=white)
+![Neurosciences](https://img.shields.io/badge/Neurosciences-FFD700?style=for-the-badge&logo=brains&logoColor=black)
 [![Status](https://img.shields.io/badge/status-updating-blue.svg)](https://github.com/ruizRojasFel/ruizRojasFel)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ruizRojasFel)
 [![Contributors](https://img.shields.io/github/contributors/ruizRojasFel/ruizRojasFel?color=blue)](https://github.com/ruizRojasFel/ruizRojasFel/graphs/contributors)
@@ -18,37 +18,55 @@
 ---
 
 ## 🖥️ Languages and Frameworks
-[![Languages and Frameworks](https://skillicons.dev/icons?i=python,java,kotlin,swift,js,typescript,html,css,spring,react,bootstrap,tailwind,mysql)](https://skillicons.dev)
+[![Languages and Frameworks](https://skillicons.dev/icons?i=python,java,kotlin,swift,js,typescript,html,css,nodejs,spring,react,bootstrap,tailwind,mysql)](https://skillicons.dev)
 
 ---
 
-## 🛠️ Tools and Platforms
+## 🧰 Tools and Platforms
 
 <p align="left">
-  <!-- Devicon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"       alt="Git"            style="width:40px; height:40px; margin:4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"        style="width:40px; height:40px; margin:4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" style="width:40px; height:40px; margin:4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"   alt="Xcode"          style="width:40px; height:40px; margin:4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" alt="NetBeans"  style="width:40px; height:40px; margin:4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"     style="width:40px; height:40px; margin:4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman"     style="width:40px; height:40px; margin:4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg"     alt="Maven"       style="width:40px; height:40px; margin:4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"     alt="Figma"       style="width:40px; height:40px; margin:4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"   alt="Docker"      style="width:40px; height:40px; margin:4px;"/>
+  <!-- 🧩 IDEs -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
+       alt="VS Code" style="width:40px; height:40px; margin:6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" 
+       alt="Android Studio" style="width:40px; height:40px; margin:6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" 
+       alt="Xcode" style="width:40px; height:40px; margin:6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" 
+       alt="NetBeans" style="width:40px; height:40px; margin:6px;"/>
 
-  <!-- SimpleIcons -->
-  <img src="https://cdn.simpleicons.org/atlassian/0052CC" alt="Atlassian" style="width:40px; height:40px; margin:4px;"/>
-  <img src="https://cdn.simpleicons.org/discord/5865F2"   alt="Discord"   style="width:40px; height:40px; margin:4px;"/>
-  <!-- Notion: blanco sobre fondo negro para el look oficial -->
-  <img src="https://cdn.simpleicons.org/notion/FFFFFF"    alt="Notion"    style="width:40px; height:40px; margin:4px; background:#000; padding:5px; border-radius:6px; box-sizing:border-box;"/>
+  <!-- ⚙️ Dev Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+       alt="Git" style="width:40px; height:40px; margin:6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+       alt="GitHub" style="width:40px; height:40px; margin:6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
+       alt="Docker" style="width:40px; height:40px; margin:6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" 
+       alt="Maven" style="width:40px; height:40px; margin:6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" 
+       alt="Gradle" style="width:40px; height:40px; margin:6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" 
+       alt="Postman" style="width:40px; height:40px; margin:6px;"/>
+
+  <!-- 🎨 Design & Docs -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" 
+       alt="Figma" style="width:40px; height:40px; margin:6px;"/>
+  <img src="https://cdn.simpleicons.org/notion/FFFFFF" 
+       alt="Notion" style="width:40px; height:40px; margin:6px; background:#000; padding:5px; border-radius:6px; box-sizing:border-box;"/>
+
+  <!-- 🤝 Teamwork -->
+  <img src="https://cdn.simpleicons.org/atlassian/2684FF" 
+       alt="Atlassian" style="width:40px; height:40px; margin:6px;"/>
+  <img src="https://cdn.simpleicons.org/discord/5865F2" 
+       alt="Discord" style="width:40px; height:40px; margin:6px;"/>
 </p>
 
 ---
 
 ## 🚀 Projects
-- **Nothofagus Solitario [in progress]:** Static travel website.
-- **Imperio de Caballo y Güey [in progress]:** Dynamic website focused on building the brand’s online presence.
+- 🌲 **Nothofagus Solitario** *(in progress)* — Static travel website that showcases destinations and experiences.
+- 🐎 **Imperio de Caballo y Güey** *(in progress)* — Dynamic website focused on building the brand’s online presence.
 
 ---
 
