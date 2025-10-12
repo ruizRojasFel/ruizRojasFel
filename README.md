@@ -47,3 +47,10 @@
 ## 📊 GitHub Overview
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruizRojasFel&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruizRojasFel&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+## 📈 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruizRojasFel&layout=compact&langs_count=8&hide_border=false&bg_color=1E1E1E&title_color=FFD700&text_color=FFFFFF&border_color=FFD700)
+
+
+## 📈 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruizRojasFel&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
