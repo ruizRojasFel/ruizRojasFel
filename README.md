@@ -33,8 +33,8 @@
 ---
 
 ## 🚀 Projects
-- **Nothofagus Solitario [in progress]:** This website is dedicated to my solo travel adventures, offering tips and inspiration for those who wish to explore the world on their own.
-- **Imperio de Caballo y Güey [in progress]:**
+- **Nothofagus Solitario [in progress]:** Static travel website.
+- **Imperio de Caballo y Güey [in progress]:** Dynamic website focused on building the brand’s online presence.
 
 ---
 
@@ -44,5 +44,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruizRojasFel&hide_border=true&layout=compact&langs_count=12&title_color=ffffff&text_color=ffffff&bg_color=4D4D4D)
+## 📊 GitHub Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruizRojasFel&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruizRojasFel&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
