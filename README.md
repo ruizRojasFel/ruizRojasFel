@@ -6,7 +6,10 @@
 - 🧩 My background is multidisciplinary, with knowledge in pedagogy, social sciences, and learning neuroscience.
 
 ## 🚀 Areas of Interest  
-![Software Development](https://img.shields.io/badge/Software_Development-2E8B57?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+![Software Development](https://img.shields.io/badge/Software_Development-2E8B57?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Software Development](https://img.shields.io/badge/Software_Development-2E8B57?style=for-the-badge&logo=codeium&logoColor=white)
+![💻 Software Development](https://img.shields.io/badge/💻_Software_Development-2E8B57?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
 ![Data Engineering](https://img.shields.io/badge/Data_Engineering-1E90FF?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Learning Neuroscience](https://img.shields.io/badge/Learning_Neuroscience-FFD700?style=for-the-badge&logo=academia&logoColor=white)
 
