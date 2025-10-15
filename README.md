@@ -6,9 +6,9 @@
 - 🧩 My background is multidisciplinary, with knowledge in pedagogy, social sciences, and learning neuroscience.
 
 ## 🚀 Areas of Interest  
-![Software Development](https://img.shields.io/badge/Software_Development-2E8B57?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Software Development](https://img.shields.io/badge/Software_Development-2E8B57?style=for-the-badge&logo=visualstudiocode&logoColor=black)
 ![Data Engineering](https://img.shields.io/badge/Data_Engineering-1E90FF?style=for-the-badge&logo=postgresql&logoColor=white)
-![Learning Neuroscience](https://img.shields.io/badge/Learning_Neuroscience-FFD700?style=for-the-badge&logo=academia&logoColor=black)
+![Learning Neuroscience](https://img.shields.io/badge/Learning_Neuroscience-FFD700?style=for-the-badge&logo=academia&logoColor=white)
 
 [![Status](https://img.shields.io/badge/status-updating-blue.svg)](https://github.com/ruizRojasFel/ruizRojasFel)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ruizRojasFel)
