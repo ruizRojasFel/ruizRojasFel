@@ -100,8 +100,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruizRojasFel&layout=donut&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruizRojasFel&layout=compact&hide_title=true)](https://github.com/ruizRojasFel)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruizRojasFel&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&custom_title=Lenguajes+Más+Usados)](https://github.com/ruizRojasFel)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruizRojasFel&layout=compact&hide_border=true&theme=dracula)](https://github.com/ruizRojasFel)
-
