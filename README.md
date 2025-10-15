@@ -7,8 +7,15 @@
 
 ##
 ![Software Development](https://img.shields.io/badge/Software_Development-2E8B57?style=for-the-badge&logo=codeium&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data_Science-FF8C00?style=for-the-badge&logo=python&logoColor=white)
-![Neurosciences](https://img.shields.io/badge/Neurosciences-FFD700?style=for-the-badge&logo=brains&logoColor=black)
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-1E90FF?style=for-the-badge&logo=postgresql&logoColor=white)
+![Learning Neuroscience](https://img.shields.io/badge/Learning_Neuroscience-FFD700?style=for-the-badge&logo=brain&logoColor=black)
+
+
+## 🚀 Areas of Interest  
+🧑‍💻 ![Software Development](https://img.shields.io/badge/Software_Development-2E8B57?style=for-the-badge&logo=codeium&logoColor=white)  
+🗃️ ![Data Engineering](https://img.shields.io/badge/Data_Engineering-1E90FF?style=for-the-badge&logo=postgresql&logoColor=white)  
+🧠 ![Learning Neuroscience](https://img.shields.io/badge/Learning_Neuroscience-FFD700?style=for-the-badge&logo=openai&logoColor=black)
+
 
 [![Status](https://img.shields.io/badge/status-updating-blue.svg)](https://github.com/ruizRojasFel/ruizRojasFel)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ruizRojasFel)
