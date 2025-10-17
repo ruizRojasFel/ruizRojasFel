@@ -30,7 +30,8 @@
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" style="margin:6px;"/>
   <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="40" height="40" style="margin:6px;"/>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" style="margin:6px;"/>  
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="40" height="40" style="margin:6px;"/>  
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="40" height="40" style="margin:6px;"/>
+  <img src="https://skillicons.dev/icons?i=json" alt="JSON" width="40" height="40" style="margin:6px;"/>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" style="margin:6px;"/> 
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40" style="margin:6px;"/>  
   <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="40" height="40" style="margin:6px;"/>  
