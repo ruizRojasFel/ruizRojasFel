@@ -38,7 +38,8 @@
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40" style="margin:6px;"/>  
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" style="margin:6px;"/>
   <img src="https://skillicons.dev/icons?i=scss" alt="SCSS" width="40" height="40" style="margin:6px;"/>
-   
+
+  <img src="https://skillicons.dev/icons?i=react,nodejs,json" width="40" height="40" style="margin:6px;"/>
 </p>
 
 ---
