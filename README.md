@@ -31,15 +31,12 @@
   <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="40" height="40" style="margin:6px;"/>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" style="margin:6px;"/>  
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=json" alt="JSON" width="40" height="40" style="margin:6px;"/>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" style="margin:6px;"/> 
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40" style="margin:6px;"/>  
   <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="40" height="40" style="margin:6px;"/>  
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40" style="margin:6px;"/>  
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" style="margin:6px;"/>
   <img src="https://skillicons.dev/icons?i=scss" alt="SCSS" width="40" height="40" style="margin:6px;"/>
-
-  <img src="https://skillicons.dev/icons?i=react,nodejs,json" width="40" height="40" style="margin:6px;"/>
 </p>
 
 ---
