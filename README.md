@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 - 🎓 I'm a Computer Engineering student with a passion for building and learning.
-- 💻 I have experience in web development through personal and collaborative projects.
+- 💻 I have experience in software development through personal and collaborative projects.
 - 🧩 My background is multidisciplinary, with knowledge in pedagogy, social sciences, and learning neuroscience.
 
 ## 🚀 Areas of Interest  
@@ -23,8 +23,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" style="margin:6px;"/>  
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" style="margin:6px;"/>  
-  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="40" height="40" style="margin:6px;"/>  
-  <img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="40" height="40" style="margin:6px;"/>  
+  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="40" height="40" style="margin:6px;"/>   
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" style="margin:6px;"/>  
   <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40" style="margin:6px;"/>  
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" style="margin:6px;"/>
@@ -36,7 +35,6 @@
   <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="40" height="40" style="margin:6px;"/>  
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40" style="margin:6px;"/>  
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=scss" alt="SCSS" width="40" height="40" style="margin:6px;"/>
 </p>
 
 ---
@@ -49,8 +47,6 @@
        alt="VS Code" style="width:40px; height:40px; margin:6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" 
        alt="Android Studio" style="width:40px; height:40px; margin:6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" 
-       alt="Xcode" style="width:40px; height:40px; margin:6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" 
        alt="NetBeans" style="width:40px; height:40px; margin:6px;"/>
   <!-- ⚙️ Dev Tools -->
@@ -59,8 +55,6 @@
 <img src="https://cdn.simpleicons.org/github/FFFFFF"
      alt="GitHub"
      style="width:40px; height:40px; margin:6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
-       alt="Docker" style="width:40px; height:40px; margin:6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" 
        alt="Maven" style="width:40px; height:40px; margin:6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" 
@@ -99,5 +93,6 @@
 
 ## 📊 GitHub Overview
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruizRojasFel&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruizRojasFel&layout=donut&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruizRojasFel&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
