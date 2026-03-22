@@ -80,6 +80,7 @@
 ## 🚀 Projects
 - 🌲 **Nothofagus Solitario** *(in progress)* — Static travel website that showcases destinations and experiences.
 - 🐎 **Imperio de Caballo y Güey** *(in progress)* — Dynamic website focused on building the brand’s online presence.
+- 🪵 **JAS Standard Calculation Platform** *(in progress)* — Specialized tool for calculating Japanese Agricultural Standards (JAS) in timber products.
 
 ---
 
