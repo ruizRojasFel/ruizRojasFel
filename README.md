@@ -50,9 +50,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" 
        alt="NetBeans" style="width:40px; height:40px; margin:6px;"/>
   <!-- ⚙️ Dev Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
+       alt="VS Code" style="width:40px; height:40px; margin:6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" 
+       alt="VS Code" style="width:40px; height:40px; margin:6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
        alt="Git" style="width:40px; height:40px; margin:6px;"/>
-<img src="https://cdn.simpleicons.org/github/FFFFFF"
+  <img src="https://cdn.simpleicons.org/github/FFFFFF"
      alt="GitHub"
      style="width:40px; height:40px; margin:6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" 
