@@ -66,10 +66,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" 
        alt="Postman" style="width:40px; height:40px; margin:6px;"/>
   <!-- 🎨 Design & Docs -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" 
-       alt="Figma" style="width:40px; height:40px; margin:6px;"/>
   <img src="https://cdn.simpleicons.org/notion/FFFFFF" 
        alt="Notion" style="width:40px; height:40px; margin:6px; background:#000; padding:5px; border-radius:6px; box-sizing:border-box;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" 
+       alt="Figma" style="width:40px; height:40px; margin:6px;"/>
   <!-- 🤝 Teamwork -->
   <img src="https://cdn.simpleicons.org/atlassian/2684FF" 
        alt="Atlassian" style="width:40px; height:40px; margin:6px;"/>
