@@ -21,22 +21,22 @@
 
 ## 🖥️ Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,kotlin,js,typescript,swift,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,typescript,python,java,cs,kotlin,swift,html,css" />
 </p>
 
 ## 🚀 Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,spring,dotnet,express,fastapi,swiftui" />
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,fastapi,spring,dotnet,swiftui" />
 </p>
 
 ## 📦 Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vite" />
 </p>
 
 ## 🗄️ Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
 </p>
 
 ## 🧩 IDEs
@@ -59,12 +59,14 @@
   <img src="https://skillicons.dev/icons?i=discord" />
   <img src="https://cdn.simpleicons.org/atlassian/2684FF" alt="Atlassian" style="width:40px; height:40px; margin:6px;"/>
 </p>
+
 ---
 
 ## 🚀 Projects
 - 🌲 **Nothofagus Solitario** *(in progress)* — Static travel website that showcases destinations and experiences.
-- 🐎 **Imperio de Caballo y Güey** *(in progress)* — Dynamic website focused on building the brand’s online presence.
 - 🪵 **JAS Standard Calculation Platform** *(in progress)* — Specialized tool for calculating Japanese Agricultural Standards (JAS) in timber products.
+- 🧠 **Learning Curve Monitor** *(in progress)* — Web platform that tracks and visualizes student learning curves, helping teachers identify knowledge retention and content assimilation in real time.
+- 📊 **GanttChart** *(in progress)* — Microservices-based platform for project management using Gantt charts. Built with C# · ASP.NET Core · PostgreSQL · Clean Architecture.
 
 ---
 
