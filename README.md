@@ -46,7 +46,7 @@
 
 ## ⚙️ Dev Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,maven,postman,swagger,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,maven,postman,aws,azure" />
 </p>
 
 ## 🎨 Design & Docs
