@@ -91,6 +91,7 @@
   <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="40" height="40" style="margin:6px;"/>
   <img src="https://cdn.simpleicons.org/atlassian/2684FF" alt="Atlassian" style="width:40px; height:40px; margin:6px;"/>
 </p>
+
 ---
 
 ## 🚀 Projects
