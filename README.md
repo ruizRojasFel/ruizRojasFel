@@ -23,7 +23,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" style="margin:6px;"/>  
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=C#" alt="C#" width="40" height="40" style="margin:6px;"/>
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40" style="margin:6px;"/>
   <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="40" height="40" style="margin:6px;"/>   
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" style="margin:6px;"/>  
   <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40" style="margin:6px;"/>  
@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="40" height="40" style="margin:6px;"/>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" style="margin:6px;"/>  
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=asp.net" alt="ASP.net" width="40" height="40" style="margin:6px;"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" alt="ASP.net" width="40" height="40" style="margin:6px;"/>
   <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40" style="margin:6px;"/>
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" style="margin:6px;"/> 
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" style="margin:6px;"/>
