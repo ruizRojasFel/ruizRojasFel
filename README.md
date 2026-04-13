@@ -21,77 +21,44 @@
 
 ## 🖥️ Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40" style="margin:6px;"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cs,kotlin,js,typescript,swift,html,css" />
 </p>
 
 ## 🚀 Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=dotnet" alt="ASP.NET" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=swiftui" alt="SwiftUI" width="40" height="40" style="margin:6px;"/>
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,spring,dotnet,express,fastapi,swiftui" />
 </p>
 
 ## 📦 Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="40" height="40" style="margin:6px;"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,vite" />
 </p>
 
 ## 🗄️ Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40" style="margin:6px;"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
 </p>
 
 ## 🧩 IDEs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=xcode" alt="Xcode" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=netbeans" alt="NetBeans" width="40" height="40" style="margin:6px;"/>
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,xcode,netbeans" />
 </p>
 
 ## ⚙️ Dev Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=maven" alt="Maven" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=swagger" alt="Swagger" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" height="40" style="margin:6px;"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,maven,postman,swagger,aws,azure" />
 </p>
 
 ## 🎨 Design & Docs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40" style="margin:6px;"/>
-  <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="40" height="40" style="margin:6px;"/>
+  <img src="https://skillicons.dev/icons?i=figma,notion" />
 </p>
 
 ## 🤝 Teamwork
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="40" height="40" style="margin:6px;"/>
+  <img src="https://skillicons.dev/icons?i=discord" />
   <img src="https://cdn.simpleicons.org/atlassian/2684FF" alt="Atlassian" style="width:40px; height:40px; margin:6px;"/>
 </p>
-
 ---
 
 ## 🚀 Projects
