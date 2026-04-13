@@ -66,8 +66,7 @@
 - 🌲 **Nothofagus Solitario** *(in progress)* — Static travel website that showcases destinations and experiences.
 - 🪵 **JAS Standard Calculation Platform** *(in progress)* — Specialized tool for calculating Japanese Agricultural Standards (JAS) in timber products.
 - 🧠 **Learning Curve Monitor** *(in progress)* — Web platform that tracks and visualizes student learning curves, helping teachers identify knowledge retention and content assimilation in real time.
-- 📊 **GanttChart** *(in progress)* — Microservices-based platform for project management using Gantt charts. Built with C# · ASP.NET Core · PostgreSQL · Clean Architecture.
-  https://github.com/Gantt-Chart-C
+- 📊 **[GanttChart](https://github.com/Gantt-Chart-C)** *(in progress)* — Microservices-based platform for project management using Gantt charts. Built with C# · ASP.NET Core · PostgreSQL · Clean Architecture.
 
 ---
 
