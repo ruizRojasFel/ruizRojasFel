@@ -72,7 +72,7 @@
 ---
 
 ## 💼 Projects
-- 🪵 **JAS Standard Calculation Platform** [![Link Demo](https://img.shields.io/badge/demo-6e4615)](https://jas-pwa.netlify.app) — Specialized tool for calculating Japanese Agricultural Standards (JAS) in timber products.
+- 🪵 **JAS Standard Calculation Platform** [![Link Demo](https://img.shields.io/badge/demo-6e4615)](https://jascalculatorapp.netlify.app/) — Specialized tool for calculating Japanese Agricultural Standards (JAS) in timber products.
 
 - 🌲 **Nothofagus Solitario** [![Link Demo](https://img.shields.io/badge/In%20progress-2d6e15)](https://github.com/ruizRojasFel) — Static travel website that showcases destinations and experiences.
 
