@@ -83,7 +83,7 @@
 ## 📬 Connect with Me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40felandres-blue?logo=linkedin&logoColor=white)](http://linkedin.com/in/felandres)
 [![Gmail](https://img.shields.io/badge/Email-%40felruiz.a%40gmail.com-red?logo=gmail&logoColor=white)](mailto:felruiz.a@gmail.com)
-[![webSite](https://img.shields.io/badge/Web%20Site-%40felruiz--dev-lightblue)](https://felruiz-dev.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-%40felruiz--dev-lightblue)](https://felruiz-dev.vercel.app/)
 
 ---
 
