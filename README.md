@@ -26,7 +26,7 @@
 
 ## 🚀 Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,next,express,fastapi,spring,dotnet,swiftui" />
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,next,express,fastapi,spring,dotnet,jetpack,swiftui" />
 </p>
 
 ## 📦 Libraries
