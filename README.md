@@ -19,19 +19,24 @@
 
 ---
 
-## 🖥️ Languages
+## 🖥️ OS
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,typescript,python,java,cs,kotlin,swift,html,css" />
+  <img src="https://skillicons.dev/icons?i=apple" />
 </p>
 
-## 🚀 Frameworks
+## 🤖 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,next,express,fastapi,spring,dotnet,jetpack,swiftui" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cs,kotlin,swift,astro,md,html,css" />
 </p>
 
-## 📦 Libraries
+## 📚 Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vite" />
+  <img src="https://skillicons.dev/icons?i=react,angular,vitest,nodejs,next,express,fastapi,spring,hibernate,dotnet,tailwind,bootstrap" />
+</p>
+
+## 🛠️ Build Tool
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=npm,vite,maven" />
 </p>
 
 ## 🗄️ Databases
@@ -46,7 +51,7 @@
 
 ## ⚙️ Dev Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,maven,postman,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman,aws,azure" />
 </p>
 
 ## 🎨 Design & Docs
@@ -62,27 +67,31 @@
 
 ---
 
-## 🚀 Projects
-- 🌲 **Nothofagus Solitario** *(in progress)* — Static travel website that showcases destinations and experiences.
-- 🪵 **JAS Standard Calculation Platform** *(in progress)* — Specialized tool for calculating Japanese Agricultural Standards (JAS) in timber products.
-- 🧠 **Learning Curve Monitor** *(in progress)* — Web platform that tracks and visualizes student learning curves, helping teachers identify knowledge retention and content assimilation in real time.
+## 💼 Projects
+- 🪵 **JAS Standard Calculation Platform** [![Link Demo](https://img.shields.io/badge/demo-6e4615)](https://jas-pwa.netlify.app) — Specialized tool for calculating Japanese Agricultural Standards (JAS) in timber products.
+
+- 🌲 **Nothofagus Solitario** [![Link Demo](https://img.shields.io/badge/In%20progress-2d6e15)](https://github.com/ruizRojasFel) — Static travel website that showcases destinations and experiences.
+
+- 🧠 **Learning Curve Monitor** [![Link Demo](https://img.shields.io/badge/In%20progress-bf78cc)](https://github.com/ruizRojasFel) — Web platform that tracks and visualizes student learning curves, helping teachers identify knowledge retention and content assimilation in real time.
 
 ---
 
 ## 🎓 Certifications
 - 🧭 **Scrum Fundamentals Certified (SFC)** — *Scrum Study*  
-- 🐍 **Python Essentials 1** — *Cisco Networking Academy*
 
 ---
 
 ## 📬 Connect with Me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40felandres-blue?logo=linkedin&logoColor=white)](http://linkedin.com/in/felandres)
-[![Gmail](https://img.shields.io/badge/Email-%20felruiz.a%40gmail.com-red?logo=gmail&logoColor=white)](mailto:felruiz.a@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-%40felruiz.a%40gmail.com-red?logo=gmail&logoColor=white)](mailto:felruiz.a@gmail.com)
+[![webSite](https://img.shields.io/badge/Web%20Site-%40felruiz--dev-lightblue)](https://felruiz-dev.vercel.app/)
 
 ---
 
 ## 📊 GitHub Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruizRojasFel&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
-
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=ruizRojasFel&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruizRojasFel&theme=github_dark)
+
+
 
