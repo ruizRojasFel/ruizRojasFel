@@ -26,7 +26,7 @@
 
 ## 🚀 Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,fastapi,spring,dotnet,swiftui" />
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,next,express,fastapi,spring,dotnet,swiftui" />
 </p>
 
 ## 📦 Libraries
@@ -66,7 +66,6 @@
 - 🌲 **Nothofagus Solitario** *(in progress)* — Static travel website that showcases destinations and experiences.
 - 🪵 **JAS Standard Calculation Platform** *(in progress)* — Specialized tool for calculating Japanese Agricultural Standards (JAS) in timber products.
 - 🧠 **Learning Curve Monitor** *(in progress)* — Web platform that tracks and visualizes student learning curves, helping teachers identify knowledge retention and content assimilation in real time.
-- 📊 **[GanttChart](https://github.com/Gantt-Chart-C)** *(in progress)* — Microservices-based platform for project management using Gantt charts. Built with C# · ASP.NET Core · PostgreSQL · Clean Architecture.
 
 ---
 
