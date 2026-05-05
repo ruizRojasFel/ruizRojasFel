@@ -53,6 +53,11 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman,aws,azure" />
 </p>
 
+## ☁️ Deployment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=netlify,vercel" />
+</p>
+
 ## 🎨 Design & Docs
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,notion" />
