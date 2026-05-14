@@ -33,39 +33,30 @@
   <img src="https://skillicons.dev/icons?i=react,angular,vitest,nodejs,next,express,fastapi,spring,hibernate,dotnet,tailwind,bootstrap" />
 </p>
 
-## 🛠️ Build Tool
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=npm,vite,maven" />
-</p>
-
 ## 🗄️ Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
 </p>
 
-## 🧩 IDEs
+## 🛠️ Build Tool
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,xcode,netbeans" />
+  <img src="https://skillicons.dev/icons?i=npm,vite,maven" />
 </p>
 
-## ⚙️ Dev Tools
+## ⚙️ Development & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,docker,kubernetes,git,github,postman,aws,azure,netlify,vercel" />
 </p>
 
-## ☁️ Deployment
+## 📊 Analytics & Monitoring
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=netlify,vercel" />
+  <img src="https://cdn.simpleicons.org/googleanalytics/E37400" alt="Google Analytics" style="width:40px; height:40px; margin:6px;"/>
 </p>
 
-## 🎨 Design & Docs
+## 🎨 Design, Docs & Collaboration
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,notion" />
-</p>
-
-## 🤝 Teamwork
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=discord" />
+  <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" style="width:40px; height:40px; margin:6px;"/>
   <img src="https://cdn.simpleicons.org/atlassian/2684FF" alt="Atlassian" style="width:40px; height:40px; margin:6px;"/>
 </p>
 
