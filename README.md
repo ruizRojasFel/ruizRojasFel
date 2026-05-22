@@ -63,11 +63,11 @@
 ---
 
 ## 💼 Projects
-- 🪵 **JAS Standard Calculation Platform** [![Link Demo](https://img.shields.io/badge/demo-6e4615)](https://jascalculatorapp.netlify.app/) — Specialized tool for calculating Japanese Agricultural Standards (JAS) in timber products.
+- 🧠 **Learning Curve Monitor** [![Link Demo](https://img.shields.io/badge/In%20progress-bf78cc)](https://github.com/ruizRojasFel) — Educational monitoring platform that visualizes student learning trajectories and generates reports for teachers.
 
-- 🌲 **Nothofagus Solitario** [![Link Demo](https://img.shields.io/badge/In%20progress-2d6e15)](https://github.com/ruizRojasFel) — Static travel website that showcases destinations and experiences.
+- 🪵 **JAS Standard Calculation Platform** [![Link Demo](https://img.shields.io/badge/demo-6e4615)](https://jascalculatorapp.netlify.app/) — Specialized tool for calculating Japanese Agricultural Standards (JAS) in wood products.
 
-- 🧠 **Learning Curve Monitor** [![Link Demo](https://img.shields.io/badge/In%20progress-bf78cc)](https://github.com/ruizRojasFel) — Web platform that tracks and visualizes student learning curves, helping teachers identify knowledge retention and content assimilation in real time.
+- 🌲 **Nothofagus Solitario** [![Link Demo](https://img.shields.io/badge/In%20progress-2d6e15)](https://github.com/ruizRojasFel) — Travel website for showcasing destinations and experiences.
 
 ---
 
