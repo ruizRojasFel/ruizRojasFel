@@ -25,12 +25,12 @@
 
 ## 🤖 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cs,kotlin,swift,astro,md,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,astro,swift,kotlin" />
 </p>
 
 ## 📚 Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,angular,vitest,nodejs,next,express,fastapi,spring,hibernate,dotnet,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=angular,spring,react,nodejs,vitest" />
 </p>
 
 ## 🗄️ Databases
@@ -40,12 +40,12 @@
 
 ## 🛠️ Build Tool
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=npm,vite,maven" />
+  <img src="https://skillicons.dev/icons?i=maven,npm,vite" />
 </p>
 
-## ⚙️ Development & DevOps
+## ⚙️ DevOps & Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,docker,kubernetes,git,github,postman,aws,azure,netlify,vercel" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,git,github,postman,vscode,androidstudio" />
 </p>
 
 ## 📊 Analytics & Monitoring
@@ -56,8 +56,6 @@
 ## 🎨 Design, Docs & Collaboration
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,notion" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" style="width:40px; height:40px; margin:6px;"/>
-  <img src="https://cdn.simpleicons.org/atlassian/2684FF" alt="Atlassian" style="width:40px; height:40px; margin:6px;"/>
 </p>
 
 ---
@@ -72,7 +70,9 @@
 ---
 
 ## 🎓 Certifications
-- 🧭 **Scrum Fundamentals Certified (SFC)** — *Scrum Study*  
+- 🧭 **Scrum Fundamentals Certified (SFC)** — *Scrum Study*
+- 🧭 **Azure Fundamentals (AZ-900)** — *Microsoft*
+- 🧭 **Azure Data Fundamentals (DP-900)** — *Microsoft*  
 
 ---
 
