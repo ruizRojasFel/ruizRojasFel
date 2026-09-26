@@ -30,7 +30,7 @@
 
 ## 📚 Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,spring,react,nodejs,vitest" />
+  <img src="https://skillicons.dev/icons?i=angular,spring,react,nodejs,vitest,tailwind" />
 </p>
 
 ## 🗄️ Databases
