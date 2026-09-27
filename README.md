@@ -25,12 +25,12 @@
 
 ## 🤖 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,py,astro,swift,kotlin" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,swift,kotlin" />
 </p>
 
 ## 📚 Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,spring,react,nodejs,vitest,tailwind" />
+  <img src="https://skillicons.dev/icons?i=angular,spring,astro,react,nodejs,vitest,tailwind" />
 </p>
 
 ## 🗄️ Databases
