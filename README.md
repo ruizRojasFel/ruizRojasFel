@@ -65,21 +65,22 @@
 
 - 🪵 **JAS Standard Calculation Platform** [![Link Demo](https://img.shields.io/badge/demo-6e4615)](https://jascalculatorapp.netlify.app/) — Specialized tool for calculating Japanese Agricultural Standards (JAS) in wood products.
 
-- 🌲 **Nothofagus Solitario** [![Link Demo](https://img.shields.io/badge/In%20progress-2d6e15)](https://github.com/ruizRojasFel) — Travel website for showcasing destinations and experiences.
+- 🌲 **Nothofagus Solitario** [![Link Demo](https://img.shields.io/badge/demo-2d6e15)](https://nothofagusolitario.netlify.app/) — Travel website for showcasing destinations and experiences.
 
 ---
 
 ## 🎓 Certifications
 - 🧭 **Scrum Fundamentals Certified (SFC)** — *Scrum Study*
+- 🧭 **Desarrollador Fullstack** — *Duoc-UC*
 - 🧭 **Azure Fundamentals (AZ-900)** — *Microsoft*
 - 🧭 **Azure Data Fundamentals (DP-900)** — *Microsoft*  
 
 ---
 
 ## 📬 Connect with Me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40felandres-blue?logo=linkedin&logoColor=white)](http://linkedin.com/in/felandres)
 [![Gmail](https://img.shields.io/badge/Email-%40felruiz.a%40gmail.com-red?logo=gmail&logoColor=white)](mailto:felruiz.a@gmail.com)
-[![Website](https://img.shields.io/badge/Website-felruiz--dev.vercel.app-lightblue)](https://felruiz-dev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40ruizrojasfel-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/ruizrojasfel)
+[![Website](https://img.shields.io/badge/Website-felruiz--dev.netlify.app-lightblue)](https://felruiz-dev.netlify.app/)
 
 ---
 
