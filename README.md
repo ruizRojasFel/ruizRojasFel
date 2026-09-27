@@ -79,7 +79,7 @@
 
 ## 📬 Connect with Me 
 [![Gmail](https://img.shields.io/badge/Email-%40felruiz.a%40gmail.com-red?logo=gmail&logoColor=white)](mailto:felruiz.a@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40ruizrojasfel-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/ruizrojasfel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40ruizrojasfel-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruizrojasfel)
 [![Website](https://img.shields.io/badge/Website-felruiz--dev.netlify.app-lightblue)](https://felruiz-dev.netlify.app/)
 
 ---
